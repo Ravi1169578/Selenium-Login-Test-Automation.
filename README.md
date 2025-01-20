@@ -67,3 +67,7 @@ Massimiliano Visintainer
 Acknowledgments
 
 The Selenium community and contributors for providing a robust testing framework.)
+
+output picture
+
+![Image](https://github.com/user-attachments/assets/f1bf5f9d-8322-4d7f-ad5f-623e2911b66d)
